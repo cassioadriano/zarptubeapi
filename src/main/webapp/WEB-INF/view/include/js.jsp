@@ -1,0 +1,1 @@
+<script src="/resources/vendor/videojs/video.min.js"></script>
