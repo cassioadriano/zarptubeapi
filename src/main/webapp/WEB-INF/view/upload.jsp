@@ -9,7 +9,7 @@
 
 		<div class="jumbotron">
 			<h4>Upload - MP4 até 100MB</h4>
-			<form method="post" enctype="multipart/form-data" action="/video">
+			<form method="post" enctype="multipart/form-data" action="/upload">
 				<input type="file" id="file" name="file" accept="video/mp4" /> <input
 					type="submit" id="upload" value="Upload" />
 			</form>

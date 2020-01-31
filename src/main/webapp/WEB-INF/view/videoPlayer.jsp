@@ -21,9 +21,9 @@
 			    preload="auto"
 			    width="640"
 			    height="400"
-			    data-setup='{ "playbackRates": [0.50, 1, 1.5, 2] }'>
-			    <source src="/api/video/3/${nome}/video.webm" type='video/webm' />
+			    data-setup='{ "playbackRates": [0.50, 1, 1.5, 2] }'>			    
 	  			<source src="/api/video/3/${nome}/video.mp4" type='video/mp4' />
+	  			<!-- <source src="/api/video/3/${nome}/video.webm" type='video/webm' /> -->
 			    <p class="vjs-no-js">
 			      Para ver este vídeo habilite o javascript ou atualize seu navegador.
 			      <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>

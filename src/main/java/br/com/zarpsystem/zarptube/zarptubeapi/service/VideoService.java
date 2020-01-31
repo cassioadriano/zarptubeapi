@@ -89,7 +89,8 @@ public class VideoService {
 		
 		updateFiles();
 		
-		compilarWebm(nomeArquivo, dirNovoVideo);
+		//retirado apenas porque esta lento aidna..
+		//compilarWebm(nomeArquivo, dirNovoVideo);
 
 	}
 
